@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/hanori/.vim/bundle/vimproc'
+let g:netrw_dirhist_2='/Users/hanori/tern'
+let g:netrw_dirhist_3='/Users/hanori/.vim/bundle/vimproc'
+let g:netrw_dirhist_4='/Users/hanori/vagrant-google/vagrantfile_examples'
