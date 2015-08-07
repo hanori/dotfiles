@@ -6,4 +6,3 @@ source '/Users/hanori/google-cloud-sdk/path.bash.inc'
 source '/Users/hanori/google-cloud-sdk/completion.bash.inc'
 export PATH="$HOME/.rbenv/bin:$PATH"
 if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
-#テスト的な更新（気が付いたら削除）
